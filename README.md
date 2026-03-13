@@ -1,4 +1,4 @@
-## Hi, [imagine your name] !
+### Hi, [imagine your name] !
 I'm Sofa (yes, 🛋️)
 
 I am a 4th-year at Duke University studying Computer Science and Visual & Media Studies.
